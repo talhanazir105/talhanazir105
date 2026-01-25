@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20M%20Talha%20Nazir!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%26%20Developer&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20M%20Talha%20Nazir!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Web%20Developer&descAlignY=51&descAlign=50" width="100%"/>
 </div>
-
 ### 👨‍💻 About Me
 - 🎓 I am a Student at **University of Agriculture Faisalabad (UAF)**.
 - 🔭 I’m currently working on **Smart Shopping Cart Projects & Web Development**.
