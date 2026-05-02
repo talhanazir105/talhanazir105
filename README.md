@@ -21,8 +21,3 @@ I'm an **Information Technology** student at the **University of Agriculture Fai
 
 ---
 
-## 📈 GitHub Stats
-
-[![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhanazir105&show_icons=true&theme=radical)](https://github.com/talhanazir105)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhanazir105&layout=compact&theme=radical)](https://github.com/talhanazir105)
